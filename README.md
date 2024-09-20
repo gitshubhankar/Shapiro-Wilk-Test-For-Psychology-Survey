@@ -27,8 +27,8 @@ pip install pandas scipy openpyxl
 
 1. Clone this repository to your local machine:
    ```bash
-   git clone https://github.com/your-username/your-repo-name.git
-   cd your-repo-name
+   git clone https://github.com/gitshubhankar/Shapiro-Wilk-Test-For-Psychology-Survey.git
+   cd Shapiro-Wilk-Test-For-Psychology-Survey
    ```
 
 2. Place your dataset (`mang research.xlsx`) in the project directory.
